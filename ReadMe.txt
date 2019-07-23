@@ -9,4 +9,3 @@ Set of tools to increase efficiency in Blender
   -Set of AutoHotKey macros that increase productivity in Blender
   -Designed for a seperate numpad
   -Written in AutoHotKey
-  -Uses Luamacros
